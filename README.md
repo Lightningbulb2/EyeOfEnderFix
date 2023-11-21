@@ -1,2 +1,2 @@
 # EyeOfEnderFix
-Eye of ender fix repo for 
+issue tracker and feature request repo for https://modrinth.com/plugin/eyeofenderfix
