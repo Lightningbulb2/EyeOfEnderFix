@@ -1,0 +1,6 @@
+name: EyeOfEnderFixPlugin
+version: '1.0'
+main: me.lightningbulb.eyeofenderfixplugin.EyeOfEnderFixPlugin
+api-version: '1.20'
+authors: [Lightningbulb]
+description: this plugin shifts the eye of ender pointing location over by 4 blocks on the x and z axes
