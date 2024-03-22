@@ -1,0 +1,37 @@
+{
+	"schemaVersion": 1,
+	"id": "eoefix",
+	"version": "${version}",
+	"name": "FixEyeOfEnder",
+	"description": "This mod makes eyes of ender point to the stairs, the way it was intended (I think)",
+	"authors": [
+		"Lightningbulb"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0",
+	"icon": "assets/eoefix/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+		],
+		"client": [
+		]
+	},
+	"mixins": [
+		"eoefix.mixins.json",
+		{
+			"config": "eoefix.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.14.22",
+		"minecraft": "~1.20",
+		"java": ">=17"
+	},
+	"suggests": {
+	}
+}

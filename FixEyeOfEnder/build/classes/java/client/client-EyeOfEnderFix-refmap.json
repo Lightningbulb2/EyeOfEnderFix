@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "me/Lightningbulb/mixin/client/EnderEyeFix": {
+      "use": "Lnet/minecraft/class_1777;method_7836(Lnet/minecraft/class_1937;Lnet/minecraft/class_1657;Lnet/minecraft/class_1268;)Lnet/minecraft/class_1271;"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "me/Lightningbulb/mixin/client/EnderEyeFix": {
+        "use": "Lnet/minecraft/class_1777;method_7836(Lnet/minecraft/class_1937;Lnet/minecraft/class_1657;Lnet/minecraft/class_1268;)Lnet/minecraft/class_1271;"
+      }
+    }
+  }
+}
